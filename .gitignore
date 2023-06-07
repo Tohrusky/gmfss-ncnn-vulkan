@@ -1,5 +1,11 @@
-src/out
+.DS_Store
+**/.DS_Store
+.DS_Store?
+
 .vs
-*.png
-*.param
-*.bin
+.idea
+
+/src/cmake-build-debug
+/src/out
+/src/build
+
